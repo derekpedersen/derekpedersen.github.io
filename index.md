@@ -21,10 +21,21 @@ Started with [ASP.NET web forms](https://www.asp.net/web-forms) and [jQuery](htt
 ### kubernetes ###
 
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
+- [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
+- [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
+- [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
 
 ### [celebrity skateboards](https://celebrityskateboards.com) ###
 
 - [skatepark api in go](https://github.com/derekpedersen/skatepark-api-go)
 - [imgur go](https://github.com/derekpedersen/imgur-go)
+- [celebrityskateboards.com in angular](https://github.com/derekpedersen/celebrityskateboards-spa-angular)
 
 ### [derekpedersen.com](https://derekpedersen.com) ###
+
+- [resume api in .net core](https://github.com/derekpedersen/resume-api-dotnetcore)
+- [derekpedersen.com in angular](https://github.com/derekpedersen/derekpedersen.com-spa-angular)
+
+### [github.io](https://derekpedersen.github.io) ###
+
+- [github.io repository](https://github.com/derekpedersen/derekpedersen.github.io)
