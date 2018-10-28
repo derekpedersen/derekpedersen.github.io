@@ -1,4 +1,4 @@
-# Derek Pedersen #
+# Derek Pedersen 
 
 **Software Engineer** by day, skateboarder by weekend.
 
