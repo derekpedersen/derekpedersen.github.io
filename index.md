@@ -1,6 +1,6 @@
 # Derek Pedersen 
 
-## **Software Engineer** by day, skateboarder by weekend. ##
+## **Software Engineer** by day, skateboarder by weekend ##
 
 - [github](https://www.github.com/derekpedersen) 
 - [derekpedersen.com](https://www.derekpedersen.com) 
