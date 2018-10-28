@@ -1,6 +1,6 @@
 # Derek Pedersen 
 
-**Software Engineer** by day, skateboarder by weekend.
+## **Software Engineer** by day, skateboarder by weekend. ##
 
 - [github](https://www.github.com/derekpedersen) 
 - [derekpedersen.com](https://www.derekpedersen.com) 
@@ -8,11 +8,11 @@
 
 I'm a full stack software engineer, I've worked in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50). 
 
-## backend ##
+### backend ###
 
 Used to spend most my days writing [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) but now I'm onto that [Golang](https://golang.org/). 
 
-## frontend ##
+### frontend ###
 
 Started with [ASP.NET web forms](https://www.asp.net/web-forms) and [jQuery](https://jquery.com/) now building SPAs using [angular](https://angular.io/).
 
