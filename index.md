@@ -22,8 +22,7 @@ Definitely [Debian](https://www.debian.org/) based linux.
 
 ## projects ##
 
-### kubernetes ###
-
+### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
 - [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
