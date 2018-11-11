@@ -30,7 +30,7 @@ Definitely [Debian](https://www.debian.org/) based linux.
 ### [jenkins](https://jenkins.derekpedersen.com) ###
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
 
-### [celebrity skateboards](https://celebrityskateboards.com) ###
+### [celebrityskateboards.com](https://celebrityskateboards.com) ###
 
 - [skatepark api in golang](https://github.com/derekpedersen/skatepark-api-go)
 - [imgur golang pkg](https://github.com/derekpedersen/imgur-go)
