@@ -40,7 +40,3 @@ Definitely [Debian](https://www.debian.org/) based linux.
 
 - [resume api in dotnet core](https://github.com/derekpedersen/resume-api-dotnetcore)
 - [derekpedersen.com in angular](https://github.com/derekpedersen/derekpedersen.com-spa-angular)
-
-### [github.io](https://derekpedersen.github.io) ###
-
-- [github.io repository](https://github.com/derekpedersen/derekpedersen.github.io)
