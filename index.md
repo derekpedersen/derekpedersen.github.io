@@ -29,6 +29,7 @@ Definitely [Debian](https://www.debian.org/) based linux.
 
 ### [jenkins](https://jenkins.derekpedersen.com) ###
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
+- [coveralls.io](https://coveralls.io/github/derekpedersen)
 
 ### [celebrityskateboards.com](https://celebrityskateboards.com) ###
 
