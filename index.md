@@ -5,6 +5,7 @@
 - [github](https://www.github.com/derekpedersen) 
 - [derekpedersen.com](https://www.derekpedersen.com) 
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
+- <a href="https://derekpedersen.com/api/resume/download" target="_blank">resume</a>
 
 I'm a full stack software engineer and I've worked in a variety of fields (e-commerce, healthcare, consulting) across a range of business environments (start-up to fortune 50). 
 
