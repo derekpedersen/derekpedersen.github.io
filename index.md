@@ -27,6 +27,7 @@ Definitely [Debian](https://www.debian.org/) based linux.
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
 - [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
+- [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
 ### [jenkins](https://jenkins.derekpedersen.com) ###
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)

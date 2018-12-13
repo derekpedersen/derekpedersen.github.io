@@ -5,6 +5,7 @@
 - [github](https://www.github.com/derekpedersen) 
 - [derekpedersen.com](https://www.derekpedersen.com) 
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
+- <a href="https://derekpedersen.com/api/resume/download" target="_blank">resume</a>
 
 I'm a full stack software engineer and I've worked in a variety of fields (e-commerce, healthcare, consulting) across a range of business environments (start-up to fortune 50). 
 
@@ -26,9 +27,11 @@ Definitely [Debian](https://www.debian.org/) based linux.
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
 - [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
+- [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
 ### [jenkins](https://jenkins.derekpedersen.com) ###
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
+- [coveralls.io](https://coveralls.io/github/derekpedersen)
 
 ### [celebrityskateboards.com](https://celebrityskateboards.com) ###
 
