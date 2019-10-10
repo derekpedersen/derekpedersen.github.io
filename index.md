@@ -7,29 +7,42 @@
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
 - <a href="https://derekpedersen.io/api/resume/download" target="_blank">resume</a>
 
-I'm a full stack software engineer and I've worked in a variety of fields (e-commerce, healthcare, consulting) across a range of business environments (start-up to fortune 50). 
+I'm a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) across a range of business environments (start-up to fortune 50).
 
 ### Backend ###
 
-Used to spend most my days writing [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) but now I'm onto that [Golang](https://golang.org/). 
+5+ years: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+3+ years: [Golang](https://golang.org/)
 
 ### Frontend ###
 
-Started with [ASP.NET web forms](https://www.asp.net/web-forms) and [jQuery](https://jquery.com/) now building SPAs using [angular](https://angular.io/).
+3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
+3+ years: [jQuery](https://jquery.com/)
+3+ years: [angular](https://angular.io/) 
+0+ years: [vue](https://vuejs.org/)
+
+### Infrastructure ###
+
+5+ years: [Windows Server](https://en.wikipedia.org/wiki/Windows_Server)
+3+ years: [kubernetes](https://kubernetes.io/)
 
 ### Preferred Environment ###
 
-Definitely [Debian](https://www.debian.org/) based linux.
+Definitely [Debian](https://www.debian.org/) based linux
 
 ## Projects ##
 
+If I ever have free time I try and work on one of these projects:
+
 ### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
+
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
 - [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
 - [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
 ### [jenkins.derekpedersen.io](https://jenkins.derekpedersen.io) ###
+
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
 - [coveralls.io](https://coveralls.io/github/derekpedersen)
 
