@@ -1,13 +1,13 @@
 # Derek Pedersen 
 
-## **Senior Software Engineer** by day, skateboarder by weekend ##
+## **Senior Software Engineer** by Day, Skateboarder by Weekend ##
 
 - [github](https://www.github.com/derekpedersen) 
-- [derekpedersen.io](https://www.derekpedersen.io) 
+- [pedersen.io](https://www.pedersen.io) 
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
-- <a href="https://derekpedersen.io/api/resume/download" target="_blank">resume</a>
+- <a href="https://pedersen.io/api/resume/download" target="_blank">resume</a>
 
-I'm a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50).
+I'm a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50). I've been developing software professionally since 2012.
 
 ### Backend ###
 
@@ -18,7 +18,8 @@ I'm a full stack software engineer with experience working in a variety of field
 
 - 3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
 - 3+ years: [jQuery](https://jquery.com/)
-- 3+ years: [angular](https://angular.io/) 
+- 3+ years: [angular](https://angular.io/)
+- 1+ years: [react](https://reactjs.org/)
 - 0+ years: [vue](https://vuejs.org/)
 
 ### Infrastructure ###
@@ -32,7 +33,7 @@ Definitely [Debian](https://www.debian.org/) based linux
 
 ## Projects ##
 
-If I ever have free time I try and work on one of these projects:
+If I ever have free time I try and work on one of these projects
 
 ### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
 
@@ -41,7 +42,7 @@ If I ever have free time I try and work on one of these projects:
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
 - [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
-### [jenkins.derekpedersen.io](https://jenkins.derekpedersen.io) ###
+### [jenkins.pedersen.io](https://jenkins.pedersen.io) ###
 
 - [gke jenkins](https://github.com/derekpedersen/gke-jenkins)
 - [coveralls.io](https://coveralls.io/github/derekpedersen)
@@ -53,7 +54,11 @@ If I ever have free time I try and work on one of these projects:
 - [celebrityskateboards.com in angular](https://github.com/derekpedersen/celebrityskateboards-spa-angular)
 - [gitlab](https://gitlab.com/celebrityskateboards)
 
-### [derekpedersen.io](https://derekpedersen.io) ###
+### [pedersen.io](https://pedersen.io) ###
+
+- [pedersen.io in vue](https://github.com/derekpedersen/pedersen.io-spa-vue)
+
+### [derek.pedersen.io](https://pedersen.io) ###
 
 - [resume api in dotnet core](https://github.com/derekpedersen/resume-api-dotnetcore)
-- [derekpedersen.com in angular](https://github.com/derekpedersen/derekpedersen.com-spa-angular)
+- [derek.pedersen.io in angular](https://github.com/derekpedersen/derekpedersen.com-spa-angular)
