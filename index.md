@@ -38,7 +38,6 @@ If I ever have free time I try and work on one of these projects
 ### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
 
 - [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
-- [gke kube cert manager](https://github.com/derekpedersen/gke-kube-cert-manager)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
 - [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
@@ -52,7 +51,6 @@ If I ever have free time I try and work on one of these projects
 - [skatepark api in golang](https://github.com/derekpedersen/skatepark-api-go)
 - [imgur golang pkg](https://github.com/derekpedersen/imgur-go)
 - [celebrityskateboards.com in angular](https://github.com/derekpedersen/celebrityskateboards-spa-angular)
-- [gitlab](https://gitlab.com/celebrityskateboards)
 
 ### [pedersen.io](https://pedersen.io) ###
 
