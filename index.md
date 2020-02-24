@@ -37,9 +37,7 @@ If I ever have free time I try and work on one of these projects
 
 ### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
 
-- [gke vpn deployment](https://github.com/derekpedersen/gke-vpn)
 - [gke nginx proxy](https://github.com/derekpedersen/gke-nginx-proxy)
-- [gke jupyter hub](https://github.com/derekpedersen/gke-jupyter)
 
 ### [jenkins.pedersen.io](https://jenkins.pedersen.io) ###
 
