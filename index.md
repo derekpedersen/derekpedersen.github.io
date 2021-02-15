@@ -1,11 +1,12 @@
 # Derek Pedersen 
 
-## **Senior Software Engineer** by Day, Skateboarder by Weekend ##
+## **Senior Software Engineer** by Day, Ski Bum by Weekend ##
 
 - [github](https://www.github.com/derekpedersen) 
 - [pedersen.io](https://www.pedersen.io) 
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
 - <a href="https://derek.pedersen.io/api/resume/download" target="_blank">resume</a>
+- [jira](https://derekpedersen.atlassian.net/secure/RapidBoard.jspa?projectKey=DP&rapidView=7)
 
 I'm a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50). I've been developing software professionally since 2012.
 
@@ -18,7 +19,7 @@ I'm a full stack software engineer with experience working in a variety of field
 
 - 3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
 - 3+ years: [jQuery](https://jquery.com/)
-- 3+ years: [angular](https://angular.io/)
+- 3+ years: [angular](https://angular.io/) (1.0, 1.5, 2.0+)
 - 1+ years: [react](https://reactjs.org/)
 - 0+ years: [vue](https://vuejs.org/)
 
@@ -26,6 +27,8 @@ I'm a full stack software engineer with experience working in a variety of field
 
 - 5+ years: [Windows Server](https://en.wikipedia.org/wiki/Windows_Server)
 - 3+ years: [kubernetes](https://kubernetes.io/)
+- 3+ years: [google cloud gke](https://cloud.google.com/)
+- 1+ years: [aws eks](https://aws.amazon.com/eks/)
 
 ### Preferred Environment ###
 
@@ -53,8 +56,4 @@ If I ever have free time I try and work on one of these projects
 ### [pedersen.io](https://pedersen.io) ###
 
 - [pedersen.io in vue](https://github.com/derekpedersen/pedersen.io-spa-vue)
-
-### [derek.pedersen.io](https://pedersen.io) ###
-
 - [resume api in dotnet core](https://github.com/derekpedersen/resume-api-dotnetcore)
-- [derek.pedersen.io in angular](https://github.com/derekpedersen/derekpedersen.com-spa-angular)
