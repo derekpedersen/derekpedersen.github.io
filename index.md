@@ -32,11 +32,11 @@ I'm a full stack software engineer with experience working in a variety of field
 
 ### Preferred Environment ###
 
-Definitely [Debian](https://www.debian.org/) based linux
+Definitely [Debian](https://www.debian.org/) based [Linux](https://www.linuxfoundation.org/).
 
 ## Projects ##
 
-If I ever have free time I try and work on one of these projects
+If I ever have free time I try and work on one of these [projects]((https://derekpedersen.atlassian.net/secure/RapidBoard.jspa?projectKey=DP&rapidView=7)).
 
 ### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
 
