@@ -17,22 +17,22 @@ I'm a full stack software engineer with experience working in a variety of field
 #### Backend
 
 - 5+ years: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- 4+ years: [Golang](https://golang.org/)
+- 5+ years: [Golang](https://golang.org/)
 
 #### Frontend
 
 - 3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
 - 3+ years: [jQuery](https://jquery.com/)
 - 3+ years: [angular](https://angular.io/) (1.0, 1.5, 2.0+)
-- 2+ years: [react](https://reactjs.org/)
+- 3+ years: [react](https://reactjs.org/)
 - 1+ years: [vue](https://vuejs.org/)
 
 #### Infrastructure
 
 - 5+ years: [Windows Server](https://en.wikipedia.org/wiki/Windows_Server)
-- 4+ years: [kubernetes](https://kubernetes.io/)
-- 3+ years: [google cloud gke](https://cloud.google.com/)
-- 2+ years: [aws eks](https://aws.amazon.com/eks/)
+- 5+ years: [kubernetes](https://kubernetes.io/)
+- 4+ years: [google cloud gke](https://cloud.google.com/)
+- 3+ years: [aws eks](https://aws.amazon.com/eks/)
 
 #### Preferred Environment
 
