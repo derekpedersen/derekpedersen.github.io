@@ -1,38 +1,40 @@
-# Derek Pedersen 
+# Derek Pedersen
 
-## **Senior Software Engineer** by Day, Ski Bum by Weekend
+## Founding Engineer by Day, Ski Bum by Weekend
 
-- [github](https://www.github.com/derekpedersen) 
-- [pedersen.io](https://www.pedersen.io) 
+- [github](https://www.github.com/derekpedersen)
+- [pedersen.io](https://www.pedersen.io)
 - [linkedin](https://www.linkedin.com/in/derek-pedersen-67105415/)
 - <a href="https://derek.pedersen.io/api/resume/download" target="_blank">resume</a>
 - [jira](https://derekpedersen.atlassian.net/secure/RapidBoard.jspa?projectKey=DP&rapidView=7)
 
-I'm a full stack software engineer with experience working in a variety of fields (e-commerce, healthcare, consulting) and across a range of business environments (start-up to fortune 50). I've been developing software professionally since 2012. I enjoy working remotely - nothing beats watching Seasame Street with my children every morning, especially commuting.
+I'm a founding engineer and full stack software engineer with experience in healthcare, e-commerce, consulting, and other business environments. I've been developing software professionally since 2012, with experience leading teams, setting technical direction, and building data-heavy platforms. Most of my recent work has focused on healthcare price transparency, infrastructure, and systems that turn large amounts of raw data into usable products.
 
 ### Software
 
-- 10+ years: engineer, team lead, architect
+- 12+ years: engineer, team lead, architect
 
 #### Backend
 
-- 5+ years: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- 5+ years: [Golang](https://golang.org/)
+- 10+ years: [Golang](https://golang.org/)
+- 10+ years: [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 4+ years: [Java](https://www.java.com/)
 
 #### Frontend
 
-- 3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
+- 7+ years: [Vue](https://vuejs.org/)
+- 5+ years: [React](https://reactjs.org/)
+- 5+ years: [Angular](https://angular.io/) (1.0, 1.5, 2.0+)
 - 3+ years: [jQuery](https://jquery.com/)
-- 3+ years: [angular](https://angular.io/) (1.0, 1.5, 2.0+)
-- 3+ years: [react](https://reactjs.org/)
-- 1+ years: [vue](https://vuejs.org/)
+- 3+ years: [ASP.NET web forms](https://www.asp.net/web-forms)
 
 #### Infrastructure
 
-- 5+ years: [Windows Server](https://en.wikipedia.org/wiki/Windows_Server)
-- 5+ years: [kubernetes](https://kubernetes.io/)
-- 4+ years: [google cloud gke](https://cloud.google.com/)
-- 3+ years: [aws eks](https://aws.amazon.com/eks/)
+- 12+ years: [Docker](https://www.docker.com/)
+- 10+ years: [Kubernetes](https://kubernetes.io/)
+- 7+ years: [Helm](https://helm.sh/)
+- 4+ years: [Google Cloud](https://cloud.google.com/) / [GKE](https://cloud.google.com/kubernetes-engine)
+- 3+ years: [AWS](https://aws.amazon.com/) / [EKS](https://aws.amazon.com/eks/)
 
 #### Preferred Environment
 
@@ -40,7 +42,7 @@ Definitely [Debian](https://www.debian.org/) based [Linux](https://www.linuxfoun
 
 ### Projects
 
-If I ever have free time I try and work on one of these [projects]((https://derekpedersen.atlassian.net/secure/RapidBoard.jspa?projectKey=DP&rapidView=7)).
+When I have free time, I work on one of these [projects](https://derekpedersen.atlassian.net/secure/RapidBoard.jspa?projectKey=DP&rapidView=7).
 
 #### [pedersen.io](https://pedersen.io)
 
@@ -52,7 +54,7 @@ If I ever have free time I try and work on one of these [projects]((https://dere
 
 ##### [jenkins.pedersen.io](https://jenkins.pedersen.io)
 
-- ~~[coveralls.io](https://coveralls.io/github/derekpedersen)~~ *no longer maintaing this*
+- ~~[coveralls.io](https://coveralls.io/github/derekpedersen)~~ *no longer maintaining this*
 - [gke jenkins](https://github.com/pedersen-io/gke-jenkins)
 - [jenkins base build image](https://github.com/pedersen-io/gke-jenkins/blob/master/Dockerfile)
 - [jenkins golang build image](https://github.com/pedersen-io/gke-jenkins/blob/master/golang/Dockerfile)
@@ -63,11 +65,11 @@ If I ever have free time I try and work on one of these [projects]((https://dere
 
 [!! Under Construction !!](https://github.com/pedersen-io/gke-jupyter)
 
-#### [kubernetes](https://cloud.google.com/kubernetes-engine/) ###
+#### [Kubernetes](https://cloud.google.com/kubernetes-engine/)
 
-- [gke nginx ingresses](https://github.com/derekpedersen/gke-nginx-proxy) *coming soon: defined within individual helm charts thus hopefully it will be deprecated sooner rather than later*
+- [gke nginx ingresses](https://github.com/derekpedersen/gke-nginx-proxy) *coming soon: defined within individual helm charts, so this will hopefully be deprecated sooner rather than later*
 
-#### [celebrityskateboards.com](https://celebrityskateboards.com) ###
+#### [celebrityskateboards.com](https://celebrityskateboards.com)
 
 - [skatepark api in golang](https://github.com/derekpedersen/skatepark-api-go)
 - [imgur golang pkg](https://github.com/derekpedersen/imgur-go)
